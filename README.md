@@ -13,7 +13,7 @@ Includes:
 ## Setup the new project
 
 - `git clone --origin boilerplate https://github.com/parsec-labs/parsec-dapp-boilerplate.git <your-project-name>`
-- `git remote origin add git@github.com:parsec-labs/<your-project-name>.git`
+- `git remote add origin git@github.com:parsec-labs/<your-project-name>.git`
 - change name in `package.json`
 - install deps with `yarn`
 - `yarn start`
